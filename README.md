@@ -11,7 +11,7 @@
 
 ## 0x01 Introduction
 
-Team project to build a clone of [AirBnB](https://www.airbnb.com/).
+Team project by Nandila Mulilalila and Korkou Rotich for ALX to build a clone of [AirBnB](https://www.airbnb.com/).
 
 The console is a command interpreter to manage objects abstraction between objects and how they are stored.
 
@@ -278,4 +278,4 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     <li><a href="mailto:korkoujustus@gmail.com">e-mail</a></li>
     </ul>
 </details>
-
+...
